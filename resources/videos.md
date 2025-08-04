@@ -31,12 +31,12 @@ This page contains curated video resources to help reinforce Docker concepts vis
   Learn how to define and run multi-container applications using Compose.
 
 - **Docker Networking Explained**  
-  *By Bret Fisher*  
+  *By Programming with Mosh*  
   🔗 [Watch on YouTube](https://www.youtube.com/watch?v=ZzaPdXTrSb8)  
   Visual breakdown of bridge, host, overlay, and Swarm networking.
 
 - **Docker Volumes and Persistent Data**  
-  *Programming with Mosh*  
+  *By Amigoscode*  
   🔗 [Watch on YouTube](https://www.youtube.com/watch?v=p28piYY_wv8)  
   How to persist data with named volumes and bind mounts.
 
