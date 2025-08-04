@@ -17,7 +17,7 @@ This page contains curated video resources to help reinforce Docker concepts vis
   A quicker, streamlined crash course with modern best practices.
 
 - **Docker Full Course for DevOps Beginners**  
-  *By Amigoscode*  
+  *By Fireship*  
   🔗 [Watch on YouTube](https://www.youtube.com/watch?v=Gjnup-PuquQ)  
   Explains Docker from a DevOps job-prep lens. Includes Compose, volumes, networks, and debugging.
 
@@ -26,7 +26,7 @@ This page contains curated video resources to help reinforce Docker concepts vis
 ## 🔧 Deep Dives & Advanced Topics
 
 - **Docker Compose Tutorial**  
-  *By TechWorld with Nana*  
+  *By Jake Wright*  
   🔗 [Watch on YouTube](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)  
   Learn how to define and run multi-container applications using Compose.
 
@@ -36,7 +36,7 @@ This page contains curated video resources to help reinforce Docker concepts vis
   Visual breakdown of bridge, host, overlay, and Swarm networking.
 
 - **Docker Volumes and Persistent Data**  
-  *By Hussein Nasser*  
+  *Programming with Mosh*  
   🔗 [Watch on YouTube](https://www.youtube.com/watch?v=p28piYY_wv8)  
   How to persist data with named volumes and bind mounts.
 
@@ -45,10 +45,6 @@ This page contains curated video resources to help reinforce Docker concepts vis
 ## 🧑‍🏫 TechWorld with Nana (Playlist)
 
 > TechWorld with Nana is one of the best DevOps YouTube educators, especially for visual learners. Her Docker content is concise, accurate, and exam-aligned.
-
-- [Docker Tutorial for Beginners (Full Course)](https://www.youtube.com/watch?v=3c-iBn73dDE)  
-- [Docker Crash Course (Updated)](https://www.youtube.com/watch?v=pg19Z8LL06w)  
-- [Docker Compose Tutorial](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)
 
 Explore more on her [YouTube Channel](https://www.youtube.com/c/TechWorldwithNana).
 
@@ -64,5 +60,4 @@ Explore more on her [YouTube Channel](https://www.youtube.com/c/TechWorldwithNan
 
 ## 📖 See Also
 
-- [Docker Official YouTube Channel](https://www.youtube.com/@docker)  
 - [Docker Docs](https://docs.docker.com/)
