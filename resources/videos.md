@@ -42,7 +42,7 @@ This page contains curated video resources to help reinforce Docker concepts vis
 
 ---
 
-## 🧑‍🏫 TechWorld with Nana (Playlist)
+## 🧑‍🏫 TechWorld with Nana
 
 > TechWorld with Nana is one of the best DevOps YouTube educators, especially for visual learners. Her Docker content is concise, accurate, and exam-aligned.
 
