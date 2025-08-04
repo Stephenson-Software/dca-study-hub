@@ -1,10 +1,6 @@
 # 🐳 Docker Certified Associate Exam Study Plan
 
-**Target Exam Date:** September 1st  
 **Total Duration:** 4 Weeks  
-**Context:** Balancing newborn care and ongoing software projects.
-
----
 
 ## ✅ Weekly Focus Overview
 
@@ -67,7 +63,7 @@
 - [ ] **Thu**: Full-length practice test #2 (timed)  
 - [ ] **Fri**: Focused review of remaining weak areas  
 - [ ] **Sat**: Light review + rest  
-- [ ] **Sun (Sept 1)**: ✅ **Take the DCA Exam**  
+- [ ] **Sun**: ✅ **Take the DCA Exam**  
 
 ---
 
