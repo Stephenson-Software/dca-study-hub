@@ -1,6 +1,6 @@
 # 🐳 DCA Study Hub
 
-Welcome to the **DCA Study Hub** — a centralized, open-source resource for preparing for the [Docker Certified Associate (DCA)](https://www.docker.com/certification/certified-associate/) exam.
+Welcome to the **DCA Study Hub** — a centralized, open-source resource for preparing for the [Docker Certified Associate (DCA)](https://training.mirantis.com/certification/dca-certification-exam/) exam.
 
 Whether you're just getting started or entering final review, this hub is designed to help you structure your learning, build hands-on skills, and track your readiness.
 
@@ -14,7 +14,7 @@ The Docker Certified Associate exam is aimed at software engineers, DevOps profe
 
 - **Format**: 55 multiple choice / multiple select questions  
 - **Time Limit**: 90 minutes  
-- **Cost**: $195 USD  
+- **Cost**: ~$195 USD  
 - **Passing Score**: ~70% (not officially published)  
 - **Proctoring**: Online via remote webcam  
 
