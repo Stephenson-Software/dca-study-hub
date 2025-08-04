@@ -28,7 +28,7 @@ This page lists carefully selected books that support your Docker Certified Asso
 
 - Prioritize books that match the DCA domains: images, containers, volumes, networking, Compose, and Swarm.
 - Supplement reading with live CLI practice and Docker Playground (https://labs.play-with-docker.com).
-- Extract and summarize key commands into `docker-commands.md` for review.
+- Extract and summarize key commands into for review.
 - Focus more on "Docker Deep Dive" and "Docker in Action" if short on time — they are the most exam-relevant.
 
 ---
@@ -37,5 +37,3 @@ This page lists carefully selected books that support your Docker Certified Asso
 
 - [Recommended Videos](./videos.md)  
 - [Official Docker Documentation](https://docs.docker.com/)
-
-Let me know if you'd like to include an estimated reading time or annotate which books are beginner vs. advanced.
