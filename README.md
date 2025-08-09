@@ -63,6 +63,12 @@ See [`CONTRIBUTING.md`](./CONTRIBUTING.md) and [`CLA.md`](./CLA.md) for details.
 
 ---
 
-## 📝 License
+## License
+This project is licensed under the **Stephenson Software Non-Commercial License (Stephenson-NC)**.  
+© 2025 Daniel McCoy Stephenson. All rights reserved.  
 
-This project is licensed under the [MIT License](./LICENSE).
+You may use, modify, and share this software for **non-commercial purposes only**.  
+Commercial use is prohibited without explicit written permission from the copyright holder.  
+
+Full license text: [Stephenson-NC License](https://github.com/Stephenson-Software/stephenson-nc-license)  
+SPDX Identifier: `Stephenson-NC`
