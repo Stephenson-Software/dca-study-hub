@@ -17,12 +17,6 @@ You can help by:
 
 ---
 
-## 📄 Contributor License Agreement
-
-Before submitting a pull request, please read and agree to the [Contributor License Agreement (CLA)](./CLA.md). This ensures that your contributions can be legally included in this open-source project under the [MIT License](./LICENSE).
-
----
-
 ## 🚀 How to Submit a Contribution
 
 1. Fork the repo and create a new branch:  
